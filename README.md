@@ -3,7 +3,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v
+        uses: actions/checkout@v3
 
       - name: Append date to activity file
         run: |

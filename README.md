@@ -7,7 +7,7 @@ jobs:
 
       - name: Append date to activity file
         run: |
-          echo "Last update: $(date)" >> activity.tx
+          echo "Last update: $(date)" >> activity.txt
 
       - name: Commit changes
         run: |

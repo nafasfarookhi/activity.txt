@@ -5,7 +5,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Append date to activity fil
+      - name: Append date to activity file
         run: |
           echo "Last update: $(date)" >> activity.txt
 

@@ -17,6 +17,6 @@ jobs:
           git commit -m "Daily update $(date)" || echo "Nothing to commit"
 
       - name: Push change
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@v0.6.08
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

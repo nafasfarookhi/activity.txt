@@ -9,7 +9,7 @@ jobs:
         run: |
           echo "Lat update: $(date)" >> activity.
 
-      - name: Commit 
+      - name: Commit change
         run: |
           git config --global user.name "nafasfarookhi"
           git config --global user.email "YOUR_EMAIL@example.com"

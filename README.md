@@ -2,7 +2,7 @@ jobs:
   daily-activity:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repositor
+      - name: Checkout reposi
         uses: actions/checkout@v3
 
       - name: Append date to activity file txt

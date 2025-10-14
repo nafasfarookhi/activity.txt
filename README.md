@@ -11,7 +11,7 @@ jobs:
 
       - name: Commit the change nft
         run: |
-          git config --global user.name "nafasfarokhi"
+          git config --global user.name "nafasfarookhi"
           git config --global user.email "YOUR_EMAIL@example.com"
           git add activity.txt
           git commit -m "Daily update $(date)" || echo "Nothing to commit"

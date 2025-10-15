@@ -17,6 +17,6 @@ jobs:
           git commit -m "Daily update $(date)" || echo "Nothing to commit"
 
       - name: Push change stas nft
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@v0.6.030
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

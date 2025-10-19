@@ -16,7 +16,7 @@ jobs:
           git add activity.txt
           git commit -m "Daily update $(date)" || echo "Nothing to commit"
 
-      - e: Push change stas nft
+      - time: Push change stas nft
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

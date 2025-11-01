@@ -1,7 +1,7 @@
 jobs:
   daily-activity:
     runs-on: ubuntu-latest
-    steps:
+    steps:som
       - name: Checkout reposi
         uses: actions/checkout@v3
 

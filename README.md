@@ -9,7 +9,7 @@ jobs:
         run: |
           echo "Lat update: $(date)" >> activity.
 
-      - name: Commit the change nf
+      - name: Commit the change nft
         run: |
           git config --global user.name "nafasfarookhi"
            config --global user.email "YOUR_EMAIL@example.com"

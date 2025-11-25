@@ -2,7 +2,7 @@ jobs:
   daily-activity:
     runs-on: ubuntu-lates
     steps:som
-      - name: Checkout reposi
+      - name: Checkout reposi3
         uses: actions/checkout@v3
 
       - name: Append date to activity file tx

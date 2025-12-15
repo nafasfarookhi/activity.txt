@@ -1,6 +1,6 @@
 jobs:
   daily-activity:
-    runs-on: ubuntu-latessaman
+    runs-on: ubuntu-latessama
     steps:
       - name: Checkout reposi3
         uses: actions/checkout@v3

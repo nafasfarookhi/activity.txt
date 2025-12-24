@@ -10,7 +10,7 @@ jobs:
           echo "Lat update: $(date)" >> activity.
 
       - name: Commit the change nft 
-        run: |config
+        run: |confi
           git config --global user.name "nafasfarookhi"
            config --global user.email "YOUR_EMAIL@example.com"
           git add activity.txt

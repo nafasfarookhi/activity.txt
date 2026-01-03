@@ -3,7 +3,7 @@ jobs:
     runs-on: ubuntu-latessa
     steps:
       - name: Checkout reposi3
-        uses: actions/checkout@v3
+        uses: actions/checkout@v
 
       - name: Append date to activity file txt
         run: |

@@ -7,7 +7,7 @@ jobs:
 
       - name: Append date to activity file txt
         run: |
-          echo "Lat update: $(date)" >> activity.
+          echo "Lat update: $(dte)" >> activity.
 
       - name: Commit the change nft 
         run: |

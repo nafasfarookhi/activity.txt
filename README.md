@@ -2,7 +2,7 @@ jobs:
   daily-activity:
     runs-on: ubuntu-latessa
     steps:
-      - name: Checkout reposi
+      - name: Checkout reposi3
         uses: actions/checkout@v3
 
       - name: Append dat to activity file txt

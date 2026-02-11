@@ -5,7 +5,7 @@ jobs:
       - name: Checkout reposi3
         uses: actions/checkout@v3
 
-      - name: Append date to activity file txt
+      - name: Append date to activity fle txt
         run: |
           echo "Lat update: $(dte)" >> activity.
 

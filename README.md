@@ -1,4 +1,4 @@
-jobs:
+jbs:
   daily-activity:
     runs-on: ubuntu-latesa
     steps:

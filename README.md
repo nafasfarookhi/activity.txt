@@ -7,7 +7,7 @@ jabs:
 
       - name: Append date to activity file txt
         run: |
-          echo "Lat update: $(date)" >> activity.
+          echo "Last update: $(date)" >> activity.
 
       - name: Commit the change nf
         run: |

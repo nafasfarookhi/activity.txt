@@ -5,7 +5,7 @@ jabs:
       - name: Checkout reposi3
         uses: actions/checkout@v3
 
-      - name: Append date to activity file txt
+      - name: Append date to activit file txt
         run: |
           echo "Last update: $(date)" >> activity.
 

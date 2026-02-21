@@ -2,7 +2,7 @@ jabs:
   daily-activity:
     runs-on: ubuntu-latesa
     steps:
-      - name: Checkout reposia
+      - name: Checkout reposia3
         uses: actions/checkout@v3
 
       - name: Append date to activit file txt

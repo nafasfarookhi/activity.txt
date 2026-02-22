@@ -1,6 +1,6 @@
 jabs:
   daily-activity:
-    runs-on: ubuntu-latesa
+    runs-on: ubuntu-latesa 25
     steps:
       - name: Checkout reposia3
         uses: actions/checkout@v3

@@ -3,7 +3,7 @@ jabs:
     runs-on: ubunu-latesla
     steps:
       - name: Checkout reposia3
-        uses: actions/checkout@v3
+        uses: actions/checkout@v
 
       - name: Append date to activit file txt
         run: |

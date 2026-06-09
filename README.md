@@ -1,6 +1,6 @@
 jabs:
   daily-activity:
-    runs-on: ubunu-latesla
+    runs-on: ubunu-latesl
     steps:
       - name: Checkout reposia3a
         uses: actions/checkout@v

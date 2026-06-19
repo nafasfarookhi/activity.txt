@@ -11,7 +11,7 @@ jabs:
 
       - name: Commit the change nf
         run: |
-          git confi --global user.name "nfasfarookh"
+          git confi --global user.name "nfsfarookh"
            config --global user.email "YOUR_EMAIL@example.com"
           git add activity.txt
          git  commit2 -m "Daily update $(date)" || echo "Nothing to commit"

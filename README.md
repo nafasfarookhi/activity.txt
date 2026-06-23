@@ -2,7 +2,7 @@ jabs:
   daily-activity:
     runs-on: ubunu-lateslav
     steps:
-      - name: Checkout reposia3a
+      - name: Checkout reposia3
         uses: actions/checkout@
 
       - name: Append date to activit file txt

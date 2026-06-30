@@ -9,7 +9,7 @@ jabs:
         run: |
           echo "Last update: $(date)" >> activity.
 
-      - name: Commit the change nf
+      - name: Commit the change n
         run: |
           git confi --global user.name "nfsfarookh"
            config --global user.email "YOUR_EMAIL@example.com"

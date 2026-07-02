@@ -20,3 +20,4 @@ jabs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          Can humans adapt to space?

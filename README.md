@@ -1,5 +1,5 @@
 jabs:
-  daily-activity:
+  daily-activit
     runs-on: ubunu-lateslav
     steps:
       - name: Checkout reposiav

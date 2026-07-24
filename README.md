@@ -5,7 +5,7 @@ jabs:
       - name: Checkout 
         uses: actions/checkout
 
-      - name: Append date to activit file tx
+      - name: Append date to activit file t
         run: |
           echo "Last update: $(date)" >> activity.
 

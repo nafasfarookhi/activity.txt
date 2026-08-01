@@ -3,7 +3,7 @@ jabs:
     runs-on: ubunu-latesl
     steps:
       - name: Checkout 
-        uses: actions/checkou
+        uses: actions/checko
 
       - name: Append date to activit file 
         run: |

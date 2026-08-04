@@ -1,6 +1,6 @@
 jabs:
   daily-activit
-    runs-on: ubunu-latesl
+    runs-on: ubunu-lates
     steps:
       - name: Checkout 
         uses: actions/check

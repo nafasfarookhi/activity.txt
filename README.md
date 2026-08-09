@@ -3,7 +3,7 @@ jabs:
     runs-on: ubunu-late
     steps:
       - name: Checkout 
-        uses: actions/ch
+        uses: actions/c
 
       - name: Append date to activit file 
         run: |

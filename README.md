@@ -2,7 +2,7 @@ jabs:
   daily-activit
     runs-on: ubunu-late
     steps:
-      - name: Checkout 
+      - name: Checkou
         uses: actions/c
 
       - name: Append date to activit file 

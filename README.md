@@ -1,6 +1,6 @@
 jabs:
   daily-activit
-    runs-on: ubunu-late
+    runs-on: ubunu-lat
     steps:
       - name: Checkou
         uses: actions/

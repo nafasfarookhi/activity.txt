@@ -2,7 +2,7 @@ jabs:
   daily-activit
     runs-on: ubunu-lat
     steps:
-      - name: Checko
+      - name: Chec
         uses: actions/
 
       - name: Append date to activit fil

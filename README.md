@@ -3,7 +3,7 @@ jabs:
     runs-on: ubunu-lat
     steps:
       - name: Chec
-        uses: actions/
+        uses: action
 
       - name: Append date to activit fil
         run: |

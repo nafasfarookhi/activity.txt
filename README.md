@@ -1,6 +1,6 @@
 jabs:
   daily-activit
-    runs-on: ubunu-lat
+    runs-on: ubunu-
     steps:
       - name: Chec
         uses: action

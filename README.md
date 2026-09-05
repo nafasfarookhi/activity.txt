@@ -2,7 +2,7 @@ jabs:
   daily-activit
     runs-on: ubunu-
     steps:
-      - name: Che
+      - name: 
         uses: action
 
       - name: Append date to activit fil

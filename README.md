@@ -1,6 +1,6 @@
 jabs:
   daily-activit
-    runs-on: ubunu-
+    runs-on: 
     steps:
       - name: 
         uses: action

@@ -1,5 +1,5 @@
 jabs:
-  daily-activit
+  daily-
     runs-on: 
     steps:
       - name: 

@@ -1,7 +1,7 @@
 jabs:
   daily-
     runs-on: 
-    steps:
+    
       - name: 
         uses: a
 

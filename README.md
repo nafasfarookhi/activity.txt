@@ -2,7 +2,7 @@ jabs:
   daily-
     runs-on: 
     
-      - name: 
+      - n
         uses: a
 
       - name: Append date to activit fil

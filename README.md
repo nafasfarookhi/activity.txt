@@ -3,7 +3,7 @@ jabs:
     runs-on: 
     good night take some rest
       - n
-        uses: 
+        uses: $1M raised with whales piling in late, easily hitting 2x oversubscribed makes sense.
 
       - name: Append date to activit fil
         run: |

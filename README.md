@@ -1,6 +1,6 @@
 jabs:
   daily-
-    runs-on: 
+    
     good night take some rest
       - n
         uses: $1M raised with whales piling in late, easily hitting 2x oversubscribed makes sense.

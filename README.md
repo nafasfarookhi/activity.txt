@@ -1,5 +1,5 @@
 jabs:
-  daily-
+  dai
     hi
     good night take some rest
       - n

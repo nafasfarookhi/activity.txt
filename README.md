@@ -4,7 +4,7 @@ There is more going on
     good night take 
       - n0x236eb848c95b231299b4aa9f56c73d6893462720
         uses: $1M raised with whales piling in late, easily hitting 2x oversubscribed makes sense.
-
+Good question. For me it’s monitoring and updates first, because a node that is up but outdated is still a real problem later.
       - name: Append date to activit 
         run: |
           echo "Last update: $(date)" >> activity.

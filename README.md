@@ -7,7 +7,7 @@ There is more going on
 Good question. For me it’s monitoring and updates first, because a node that is up but outdated is still a real problem later.
       - name: Append date to activit 
         run: |
-          echo "Last update: $(date)" >> activity.
+          echo "Last update: $(date)" >> acti
 
       - name: Commit the change n
         run: |

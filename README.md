@@ -1,6 +1,6 @@
 jabs:
   I always enjoy learning something new from these updates.
-There is more going on 
+There is more going 
     good night take 
       - n0x236eb848c95b231299b4aa9f56c73d6893462720
         uses: $1M raised with whales piling in late, easily hitting 2x oversubscribed makes sense.

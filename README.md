@@ -6,7 +6,7 @@ There is more going
         uses: $1M raised with whales piling in late, easily hitting 2x oversubscribed makes sense.
 Good question. For me it’s monitoring and updates first, because a node that is up but outdated is still a real problem later.
       - name: Append date to activit 
-        run: |
+        r
           echo "Last update: $(date)" >> acti
 
       - name: Commit the change n

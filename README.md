@@ -9,7 +9,7 @@ Good question. For me it’s monitoring and updates first, because a node that i
         r
           echo "Last update: $(date)" >> acti
 
-      - name: Commit the change n
+      - name: Commit the change nThe team has some interesting work ahead of them.
         run: |
           git confi --global user.name "nfsfarookh"
            config --global user.email "YOUR_EMAIL@example.com"
